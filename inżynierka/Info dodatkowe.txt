@@ -1,0 +1,39 @@
+0. Wstêpne rzeczy:
++ Repozytorium.
++ Kopie zapasowe.
++ Sprawidzæ terminy obrony i itd.
++ Od razu pracowaæ w ostatecznej formatce.
+(automatyczny spis treœci).
+
+
+1. Zapoznanie siê z materia³ami.
+
+2. Projekt UML: [02.07.2018]
++ Use Case
++ Communication diagram / Activity
++ Class/Component diagram (!)
+(jak siê bêdzie nudziæ: + Interakcja = Activity Diagram + Class Diagram)
++ "Motywacja" -> dlaczego my siê tym zajmujemy?
+!!!!!!!!! + "Stan badañ" -> co i jak ju¿ zosta³o zrobione w tym zakresie
+[wszystko trza notowaæ]
+
+3. Proof of concept (4 wks):
++ (wszystko obczaiæ i skonfigurowaæ !!!)
+4 dni
++ wybraæ jakiœ jeden konkretny typ metadanych i podpi¹æ (PersistentStorage !?)
+5 dni
++ standard LRMI albo PLMET (dla tych konkretnych danych?)
+3 dni
++ Protoków OAI-PMH.
+?!!?!
++ niech dzia³a :)
+??
+
+4. Jak z proof-of-concept mieæ wszystko co trzeba.
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Terminy sk³adania prac:
+Do koñca stycznia roku przysz³ego.
+Terminy obrony:
+Ustala dziekan
